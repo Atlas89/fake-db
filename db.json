@@ -30,5 +30,17 @@
       "type": "clay",
       "covered": true
     }
+  ],
+  "users": [
+    {
+      "firstName": "Nassim",
+      "lastName": "Rahali",
+      "email": "nassim.rahali@gmail.com"
+    },
+    {
+      "firstName": "Samir",
+      "lastName": "Rahali",
+      "email": "samir.rahali@gmail.com"
+    }
   ]
 }
