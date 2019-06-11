@@ -1,0 +1,34 @@
+{
+  "courts": [
+    {
+      "id": 1,
+      "type": "clay",
+      "covered" false
+    },
+    {
+      "id": 2,
+      "type": "clay",
+      "covered": false
+    },
+    {
+      "id": 3,
+      "type": "hard",
+      "covered": true
+    },
+    {
+      "id": 4,
+      "type": "hard",
+      "covered": true
+    },
+    {
+      "id": 5,
+      "type": "clay"
+      "covered": true
+    },    
+    {
+      "id": 6,
+      "type": "clay"
+      "covered": true
+    }
+  ]
+}
