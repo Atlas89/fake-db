@@ -22,12 +22,12 @@
     },
     {
       "id": 5,
-      "type": "clay"
+      "type": "clay",
       "covered": true
-    },    
+    },
     {
       "id": 6,
-      "type": "clay"
+      "type": "clay",
       "covered": true
     }
   ]
